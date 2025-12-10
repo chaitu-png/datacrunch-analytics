@@ -1,0 +1,289 @@
+{
+    "project": "datacrunch-analytics",
+    "commit_history": [
+        {
+            "hash": "cc74fb82",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-11T01:37:03.850470",
+            "message": "feat: initial commit for datacrunch-analytics",
+            "risk_score": "low"
+        },
+        {
+            "hash": "8d08eb6c",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-13T01:37:03.850470",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "bb4407eb",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-14T01:37:03.850470",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "1b4d05fe",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-17T01:37:03.850470",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "252ab81e",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-20T01:37:03.850470",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "e5496b7b",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-23T01:37:03.850470",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "d9bfbc82",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-26T01:37:03.850470",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "e1f64650",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-30T01:37:03.850470",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "9e9d8ac9",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-03T01:37:03.850470",
+            "message": "feat: implement core datacrunch-analytics module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "c36da764",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-06T01:37:03.850470",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "ffaad9c7",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-09T01:37:03.850470",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "17746e92",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-11T01:37:03.850470",
+            "message": "feat: implement core datacrunch-analytics module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "de67d252",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-15T01:37:03.850470",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "e9c2ce08",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-16T01:37:03.850470",
+            "message": "feat: implement core datacrunch-analytics module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "79e75152",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-17T01:37:03.850470",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "dc6a0c36",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-21T01:37:03.850470",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "cd8a6143",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-26T01:37:03.850470",
+            "message": "feat: add high-performance batch processing",
+            "risk_score": "high"
+        },
+        {
+            "hash": "4d160078",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-27T01:37:03.850470",
+            "message": "fix: resolve rounding error",
+            "risk_score": "low"
+        },
+        {
+            "hash": "ce12695f",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-29T01:37:03.850470",
+            "message": "feat: auxiliary feature 1 for datacrunch-analytics",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "9e56053c",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-01T01:37:03.850470",
+            "message": "feat: auxiliary feature 2 for datacrunch-analytics",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "1e35fbac",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-03T01:37:03.850470",
+            "message": "feat: auxiliary feature 3 for datacrunch-analytics",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "ce9beb62",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-05T01:37:03.850470",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "16229293",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-07T01:37:03.850470",
+            "message": "fix: resolve rounding error",
+            "risk_score": "low"
+        },
+        {
+            "hash": "99cd8fcc",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-09T01:37:03.850470",
+            "message": "feat: auxiliary feature 6 for datacrunch-analytics",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "bb4162c7",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-10T01:37:03.850470",
+            "message": "feat: auxiliary feature 7 for datacrunch-analytics",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "db051210",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-13T01:37:03.850470",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "899f2f5f",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-16T01:37:03.850470",
+            "message": "fix: resolve rounding error",
+            "risk_score": "low"
+        },
+        {
+            "hash": "2dd37966",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-04-05T01:37:03.850470",
+            "message": "refactor: optimize database query layer",
+            "risk_score": "critical"
+        }
+    ],
+    "deployments": [
+        {
+            "id": "DEP-8302",
+            "timestamp": "2025-12-13T01:37:03.850470",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-9645",
+            "timestamp": "2025-12-20T01:37:03.850470",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-6463",
+            "timestamp": "2025-12-30T01:37:03.850470",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-6777",
+            "timestamp": "2026-01-09T01:37:03.850470",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-5126",
+            "timestamp": "2026-01-16T01:37:03.850470",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-6702",
+            "timestamp": "2026-01-26T01:37:03.850470",
+            "status": "failed",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-5227",
+            "timestamp": "2026-04-05T01:37:03.850470",
+            "status": "success",
+            "environment": "production"
+        }
+    ],
+    "test_reports": [
+        {
+            "timestamp": "2025-12-13T01:37:03.850470",
+            "coverage_percent": 49.63,
+            "passed": 118,
+            "failed": 3
+        },
+        {
+            "timestamp": "2025-12-20T01:37:03.850470",
+            "coverage_percent": 46.65,
+            "passed": 104,
+            "failed": 0
+        },
+        {
+            "timestamp": "2025-12-30T01:37:03.850470",
+            "coverage_percent": 40.64,
+            "passed": 177,
+            "failed": 3
+        },
+        {
+            "timestamp": "2026-01-09T01:37:03.850470",
+            "coverage_percent": 56.92,
+            "passed": 187,
+            "failed": 3
+        },
+        {
+            "timestamp": "2026-01-16T01:37:03.850470",
+            "coverage_percent": 47.83,
+            "passed": 121,
+            "failed": 4
+        },
+        {
+            "timestamp": "2026-01-26T01:37:03.850470",
+            "coverage_percent": 31.39,
+            "passed": 189,
+            "failed": 5
+        },
+        {
+            "timestamp": "2026-04-05T01:37:03.850470",
+            "coverage_percent": 61.19,
+            "passed": 163,
+            "failed": 2
+        }
+    ]
+}
